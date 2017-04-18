@@ -1,5 +1,4 @@
-# EmentasGradeNova
-Ementas da Grade Nova
+# Ementas da Grade Nova
 
 Primeiro semestre
 
